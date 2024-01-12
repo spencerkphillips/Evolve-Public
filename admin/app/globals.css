@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.next-light-theme {
+  @apply bg-gray-50 text-gray-950;
+}
+
+.next-dark-theme {
+  @apply bg-gray-950 text-gray-50;
+}
+
+.box-pack {
+  -webkit-box-align: center;
+  -webkit-box-pack: end;
+}
+
+/* .builder-block {} defines a block of code as being a part of the web builder and is editable inside of the web builder */

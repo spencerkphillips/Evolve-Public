@@ -1,0 +1,11 @@
+- Templates
+- - Global Header
+- - Global Footer
+- - Global Sidebar
+- - Blank Page (does not include header & footer)
+- - Page (includes header & footer)
+- - Post (includes header & footer)
+- - Sidebar Left Page (includes header, footer and sidebar)
+- - Sidebar Right Page (includes header, footer and sidebar)
+- - Sidebar Left Post (includes header, footer and sidebar)
+- - Sidebar Right Post (includes header, footer and sidebar)
